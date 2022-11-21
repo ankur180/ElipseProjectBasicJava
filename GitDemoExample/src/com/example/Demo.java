@@ -6,5 +6,7 @@ public class Demo {
 		
 		
 		System.out.println("Pravin Sonune ");
+		System.out.println("Ankur Ranmale ");
+		System.out.println("Ankur Pravin  ");
 	}
 }
